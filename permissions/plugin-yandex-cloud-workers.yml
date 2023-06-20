@@ -1,0 +1,16 @@
+---
+name: "yc"
+github: &GH "jenkinsci/yandex-cloud-workers"
+issues:
+  - github: *GH
+paths:
+  - "io/jenkins/plugins/yc"
+developers:
+  - "demenevai"
+  - "petrovvich"
+  - "Th3Ch3shir3Cat"
+cd:
+  enabled: true
+security:
+  contacts:
+    jira: ademenev
